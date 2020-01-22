@@ -648,3 +648,4 @@ function simple_local_avatars_uninstall() {
 	
 	delete_option('simple_local_avatars');
 }
+
